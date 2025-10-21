@@ -11,11 +11,7 @@ All pages are fully responsive, accessible, and connected via a simple navigatio
 
 ---
 
-## 🚀 Live Demo
-**Live URL:** [Your Netlify or GitHub Pages link here]  
-**GitHub Repository:** [Your repo link here]
 
----
 
 ## 📄 Pages Overview
 
@@ -69,4 +65,4 @@ All pages are fully responsive, accessible, and connected via a simple navigatio
 ## ⚙️ Setup Instructions
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/stage1-portfolio.git
+   git clone https://github.com/sossa0233/stage1-portfolio.git
